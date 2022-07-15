@@ -2,7 +2,7 @@
   <configuration default="false" name="DsmetaApplication" type="Application" factoryName="Application" nameIsGenerated="true">
     <envs>
       <env name="TWILIO_SID" value="AC8b82337dc517b5e246f3e23d4da9fab7" />
-      <env name="TWILIO_KEY" value="d568f3cdccc6e7f7dec30cfa54df6e98" />
+      <env name="TWILIO_KEY" value="4a682dec96c9bd1ccb508e45791f5389" />
       <env name="TWILIO_PHONE_FROM" value="+19283251730" />
       <env name="TWILIO_PHONE_TO" value="+5551995129282" />
     </envs>
